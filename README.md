@@ -1,11 +1,8 @@
-![download](https://github.com/bombastictranz/CMC-MARKETS-CANADA/assets/110788242/c1b853b7-bc93-48d9-ba19-96fd697fb3a4)
-![download (1)](https://github.com/bombastictranz/CMC-MARKETS-CANADA/assets/110788242/95772e00-0dca-4ac6-956f-9e75ff0417c5)
-![download (2)](https://github.com/bombastictranz/CMC-MARKETS-CANADA/assets/110788242/d498ac2d-8f64-486b-ba0c-0950f0ae005b)
-![download (3)](https://github.com/bombastictranz/CMC-MARKETS-CANADA/assets/110788242/2361cad7-32b1-42a9-b125-7f354fa86784)
-![download (4)](https://github.com/bombastictranz/CMC-MARKETS-CANADA/assets/110788242/28b8ddda-5779-4a06-96de-e98409f1a560)
+
 # CRM App
 
-This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
+This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).![image](https://github.com/user-attachments/assets/82d8861e-6f7a-4a0a-9f30-eba9aa480de2)
+
 
 ## Development server
 
